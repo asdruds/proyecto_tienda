@@ -4,6 +4,6 @@ Este repositorio contiene el código fuente y la documentación del proyecto Dev
 Requerimientos
 La aplicación se basa en microservicios y utiliza una arquitectura de nube nativa. Para su funcionamiento se requiere:
 
-Python 3.6 o superior
-Docker y Docker Compose
-AWS CLI (para despliegue en AWS)
+-Python 3.6 o superior
+-Docker y Docker Compose
+-AWS CLI (para despliegue en AWS)
